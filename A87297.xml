@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An invocation to the officers of the Army, for preventing their own, and the ruine of the good old cause at the very door of destruction: in a letter presented to them on Wednesday 20 April 1659.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87297</idno><idno type="EEBO-CITATION">99862831</idno>
+  <idno type="VID">168548</idno>
+  <idno type="EEBO-PROQUEST">2248540655</idno>
+  
+            <idno type="STC">Wing I292</idno>
+            <idno type="STC">Thomason E979_1</idno>
+            <idno type="STC">ESTC R202603</idno>
+            <idno type="PROQUEST">99862831</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862831e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87297)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168548)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E979[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An invocation to the officers of the Army, for preventing their own, and the ruine of the good old cause at the very door of destruction: in a letter presented to them on Wednesday 20 April 1659.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168548:1"/>
+            <p>
+               <hi>AN INVOCATION</hi> TO THE OFFICERS Of the ARMY, For Preventing their own, and the ruine Of the Good Old Cause AT The very door of Destruction: IN A Letter Presented to them on <hi>Wed<g ref="char:EOLhyphen"/>nesday</hi> 20 <hi>April</hi> 1659.</p>
+            <p>
+               <hi>LONDON:</hi> Printed ANNO DOM. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168548:2"/>
+            <pb n="1" facs="tcp:168548:2"/>
+            <head>To the General Council of OFFI<g ref="char:EOLhyphen"/>CERS of the ARMIES of <hi>England, Scotland,</hi> and <hi>Ireland</hi> sitting at <hi>Wallingford-House.</hi>
+            </head>
+            <opener>
+               <salute>Friends and Countrymen:</salute>
+            </opener>
+            <p>YOu see under what slavery and servitude we are hitherto brought by your sufferance, as what Cyphers your selves are made in all true enume<g ref="char:EOLhyphen"/>rations to those false Court-Figures: Is it not true one told you, that you have deceived the Parliament and People, and now can deceive none but your selves; whilst the Court and Camp are universally united in vitiousness; yea, whilst Places and Pro<g ref="char:EOLhyphen"/>fits become the prey of perjured Persons, Apostates, and Parasites (who as 'tis scattered, scramble for it?) What talk you of the <hi>Good Old Cause,</hi> whilst it and Equity, Religion and Reason, are Voted out of the House of Commons by Courtiers and Cava<g ref="char:EOLhyphen"/>leers?</p>
+            <p>Will you not yet awaken forth of the Lethargy
+<pb n="2" facs="tcp:168548:3"/>of sloath and security, ere new Lords and new Laws brand you at once with death and infamy? Believe it, hitherto not love, but force hath secured your lives; but you may yet prove a happy counterpoize to those caterpillars of your Country: proportion but your spirits to your power, and will not City and Country upon this just account second your as<g ref="char:EOLhyphen"/>says? But by sitting still, you make many Newters, and more Delinquents (a precious Reparation of all your lost Reputation for these fore-past five yeers) Will you not be ashamed of that Cowardize and lukewarm temper which Heaven and Hell hates? Can you thus hope, whilst the Vessel of our Freedom is wreckt, to save your selves in that abominable Barque of Baseness? Are all our old Souldiers a<g ref="char:EOLhyphen"/>sleep? Or are yourArms so pressed down with the spoyl and oppressions of the People, as it is not possi<g ref="char:EOLhyphen"/>ble for you to lift them up to any purpose?</p>
+            <p>But if you should so servily succumb, were it not due and distributive Justice, that you who have for<g ref="char:EOLhyphen"/>merly preyed upon your friends, should now be made a prey to their and your Foes? Can Cava<g ref="char:EOLhyphen"/>leers fear to encounter you, over whom Cowards and Courtiers have voted themselves into Victory? Surely, both Saints and sinners would be ashamed of such Souldiers; should you so silently sit down under a sentence of such shameful succumbency, as what ever your Enemies Vote, you must vie for, be it to root out <hi>Richard,</hi> and to bring back <hi>Charls:</hi> you must now drink down at one draught all designs,
+<pb n="3" facs="tcp:168548:3"/>swallow all slights, and follow the fraudulent in all their forgeries; besides, such as have but offered at honesty, are undoubtedly, as opportunity presents, set a part for presidents in punishment. You may do well then to be more valiant then others are honest, otherwise how would it bravely become you (like <hi>Sampson</hi>) to be their slaves whom you have subdu<g ref="char:EOLhyphen"/>ed?</p>
+            <p>Oh! Be not Examples of baseness, whilst others stand on a Basis above State-Bigamy, where Crowns take a Master, when they accept a mate: When ma<g ref="char:EOLhyphen"/>ny Militia's are in one Person and his prostituted Pa<g ref="char:EOLhyphen"/>rasites, who have pawn'd their souls to propagate his Power, ruining us to raise him and themselves: but who thus reach at Thrones, seldom sit sure upon them. Oh then, ere it be too late, lay aside the vizard of dissimulation: such <hi>State-tenants</hi> at will (for all their excessive celebrations) seldom hold in see what they have, to the third &amp; fourth Generation. All who are their advancers, they eye as debters do Bayliffs, whose very looks do arrest them at the suit of their services. If your merit or honesty make you too sturdy, to be plyant to their Projects, they will use Osyers of their own planting, which being base de<g ref="char:EOLhyphen"/>pendants upon them for profit and preferment, will be easily wreath'd and wrested to serve their lusts and liking.</p>
+            <p>Oh then, stop their vain ambition before our gangrene grow greater: Let this motion find as many to practise, as to prayse it: shall not some
+<pb n="4" facs="tcp:168548:4"/>dare to do what all desire? In this sense it's better being haughty, then humble; in letting meaner men go before you in doing, for fear of danger. Let your fortitude be your Enemies Physick: delayed Resolutions are often more dangerous then Actions unconcocted or inconsiderate. Let it never be said, that you who once ventured for the Golden Fleece of Publique Liberty, have now exchanged it for the as<g ref="char:EOLhyphen"/>ses ears of servitude and slavery. The merry Greek once drown'd the Proverb of, The Valiant Greek: But let not the Cowardly, the Covetous, or the Treacherous, invert the Character of the Honest, the Valiant, and the Faithful English Souldier. Would you not be accounted tame Traytors, to behold an u<g ref="char:EOLhyphen"/>surpt power, mate and checque a Lawful one, whilst you durst neither wag hand nor tongue in oppositi<g ref="char:EOLhyphen"/>on? Did <hi>England</hi> for this lose so much life-blood, or the People impair their own to raise your Estates? And will you after all, requite them, your selves and Posterities with ruine? Oh! that your Countrey, which made you Great and Honourable, could also have made you grateful: you are now upon your last leggs, and in your breasts and bosoms, Religion and Liberty are both bleeding; your Credit and your Country lie gasping, and ready to give up the Ghost▪ Do not then deny your assistance and service, where<g ref="char:EOLhyphen"/>in your and our All is interested: Be perswaded, Posterity in this product will bless or curse your bones: For, will not the branches wither, where there is rottenness in the root? When your <hi>Sun</hi> is
+<pb n="5" facs="tcp:168548:4"/>set, will it not be night in your successours? Let then both bucket and rope go together: rather lose your lives, then the lustre of your Loyaltie, especially to such as quarrel with your merits, to massacre your Memories. Remember that after the bees are star<g ref="char:EOLhyphen"/>ved, the drones will be punished; and they who smart for their fidelity, will have a peaceable play<g ref="char:EOLhyphen"/>ster in their own spirits; whilst those who to secure their cowardly carkasses at the rate of ruining their Country, shall to all Eternity have horrour and hell in their hearts, and infamy in their Memories. If you bow or bend, all that's good is broken; be but active and resolute, and your coffins will be conver<g ref="char:EOLhyphen"/>ted to Crowns of Victory, and Palms of Tryumph: beleeve it, where Usurpation leads the Van, Judg<g ref="char:EOLhyphen"/>ment will bring up the Rear: Late experience tells us, that Power unjustly gain'd, could not be long kept. Doubt not, you cannot miscarry in so good a Cause, wherein to dare, and to be able, ever go to<g ref="char:EOLhyphen"/>gether; however, it's better to die with honour, then live with infamy. And for your prosperity in well-doing, you have the prayers of thousands, whose hearts are with you in this work, and so shall their help, though you have not here their hands.</p>
+            <closer>
+               <dateline>
+                  <hi>This Letter was sent as directed</hi> (<hi>and we hope 'twas received</hi>) <hi>on </hi>
+                  <date>
+                     <hi>Wednesday the</hi> 20 <hi>of</hi> April <hi>1659.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
